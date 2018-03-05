@@ -1,0 +1,2 @@
+com.wu.boot.annotation.EnableCaching=\
+com.wu.boot.configuration.CommonsClientAutoConfiguration
